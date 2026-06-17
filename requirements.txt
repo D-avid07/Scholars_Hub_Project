@@ -1,0 +1,10 @@
+flask
+streamlit
+langchain>=0.3.0
+langchain>=1.0.0
+langchain-community
+langchain-openai
+mysql-connector-python
+python-dotenv
+faiss-cpu
+pypdf
